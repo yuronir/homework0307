@@ -7,6 +7,7 @@ namespace helloworld {
 			Console.WriteLine ("Why not Korean!!!!!");
 			Console.WriteLine ("test commit with add");
 			Console.WriteLine ("i love you");
+			Console.WriteLine ("ㅊㅜㅇㄷㅗㄹ ㅌㅔㅅㅡㅌㅡ");
 		}
 	}
 }
